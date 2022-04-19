@@ -1,0 +1,72 @@
+PERSONAL PROFILE
+I love inventing, building and improving things, technology is a very effective way to channel this passion and contribute. I have more than a decade of experience working in IT Operations, in the last three years I've been having a lot of exposure to cloud services and DevOps related tools. 
+
+WORK EXPERIENCE
+DevOps Engineer / Disruptive Studio
+Oct 2021 – Present
+Managing three tier application platform based on ruby on rails and PostgreSQL, some of my responsibilities are:
+* Hosting more than 100 websites between Digitalocean and AWS which include using Cloudflare for DNS, caching and zero trust access, configuring load balancers, reverse proxy using Nginx, Letsencrypt and Certbot for SSL certificates.
+* Managing application servers using docker containers and GitHub Actions for deployments.
+* Managing and supporting PostgreSQL databases.
+* Designing infrastructure configurations for customer who wants to selfhost the platform.
+
+DevOps Engineer / Contollo Consulting
+Nov 2020 – Sept 2021
+* Enabling and managing Azure resources such as (VMs, SQL databases, App services, Logic apps and functions apps) for development projects.
+* Managing Linux web servers using Nginx and Cloudflare 
+* Deploying and managing Marketing Pipelines using Mautic and Microsoft SendGrid.
+* Creating automation rules to decrease and increase resource capacity based on Workload Analysis and Demand Prediction.
+* Implemented a local virtual infrastructure using PROXMOX with two HP ProLiant servers as Hypervisors, a Synology NAS for storage and 10 GBPS MikroTik switch for connectivity.
+
+Freelance / Wide Cloud Communications
+Feb 2020 – Nov 2020
+* Implemented a ticketing system based on OTRS including: Process analysis, RACI charts, service catalog segregated by tiers, reports, notifications and employee training.
+* Implemented a monitoring system using Zabbix, delivering: Templates for Ubiquiti and MikroTik networking devices, general and customer-based dashboards with granular access, metrics for SLA and Service availability, communication channels (email, teams) to send alerts related to network performance issues.
+* Built a point of presence (PoP) for a VOIP provider: Installing and configuring PBX servers, Routing traffic from provider to the point of presence, Configuring GSM gateway trunks and dial plan for mobile outbound calls, security rules to allow specific inbound and outbound traffic.
+
+Head of IT / DoubleTree by Hilton Managua
+May 2019 - Jan 2020
+* Delivered technological requirements requested during the conversion process for DoubleTree by Hilton Managua, achieving total approval on the audit process.
+* Coordinated renovation of connectivity infrastructure in a 6-storey building, achieving 100% Wi-Fi coverage using Cisco Meraki networking technology.
+* Migrated Opera PMS Standard, Micros Res 3700 POS and virtualized local servers using two VMware ESXi hypervisors, consolidating a fault tolerant infrastructure.
+* Improved training room with 6 workstations, a projection and telephony system to provide workshops and seminars effectively.
+
+WORK EXPERIENCE
+IT Support Team Lead / LOTO Nicaragua
+Jan 2017 - Apr 2019
+* Implemented cross-training programs with tier 3 and tier 2 support teams, managing to train six members with key tasks for succession plans.
+* Structured quality controls with sustainable metrics, making it possible to implement WhatsApp and Facebook communication channels to receive customer support requests.
+* Expanded tier 2 responsibilities scopes, assisting the systems administrator to reduce response times for internal user requests.
+* Improved the information input accuracy into the Help Desk system, allowing report generation for Incidents and Service Requests with precise information.
+
+System Administrator / LOTO Nicaragua
+Jun 2012 - Dec 2016
+* Orchestrated upgrade for office IT infrastructure, obtaining a three nodes HP ProLiant BL460c and MSA P2000 cluster where we built our virtual platform.
+* Executed virtual platform migration from Linux Xen Server to VMware ESXi including virtual machines and virtual switches without impacting services availability.
+* Performed the planning and execution of technological infrastructure for Granada and Tipitapa branches projects, managing to extend Headquarters’ systems services and tools.
+
+ACTIVE CERTIFICATIONS
+* CCNA Routing and Switching
+* cPanel (CPP, CWA, CWSA-1)
+* ITIL® 4 Foundation
+* MCSA – Windows Server 2012
+* CompTIA Network+
+* CompTIA A+
+
+EDUCATION
+* INGENIERIA EN SISTEMAS DE INFORMACION
+Universidad Evangélica Nicaragüense / Jan 2014 - Nov 2018 / Managua Nicaragua.
+* DIPLOMADO EN ADMINISTRACION DE SERVIDORES CON GNU/Linux
+Universidad Centroamericana / Oct 2016 - Feb 2017 / Managua Nicaragua.
+* DIPLOMADO EN LINUX ADVANCED
+Universidad Politécnica de Nicaragua UPOLI / Jan 2013 - Apr 2013 / Managua Nicaragua.
+
+LANGUAGES
+* Spanish native
+* English fluent (written and spoken)
+
+JUAN DOMÍNGUEZ MARTÍNEZ
+LINUX AND CLOUD ENGINEER
+Mobile: +505 8713 - 3226 | Email: juan@workingwithlinux.org | linkedin.com/in/juandominguezm
+
+
